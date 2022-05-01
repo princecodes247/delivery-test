@@ -1,0 +1,11 @@
+{
+    "apps": [
+
+        {
+            "name"      : "OrderService",
+            "script"    : "services/orderService/index.ts",
+            "watch"     : "services/orderService/index.ts",
+            "interpreter": "/usr/local/bin/ts-node"
+        }
+    ]
+}
